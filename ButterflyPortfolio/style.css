@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Passion+One|Playfair+Display');
+
+.mute-box{
+  padding: 0px;
+  margin: 0px;
+}
+
+#nav-header{
+  background-color: #green;
+  height: 50px;
+  width: 200px;
+  border: solid 1px;
+  position: absolute;
+  right: 400px;
+  top: 25px;
+}
+
+#main-content{
+  positon: absolute;
+   top: 50px;
+  right: 300px;
+}
+
+#list-content{
+  float: left;
+}
+
+#* {
+  border: solid 5px red;
+  //display: inline;
+}
+
+body{
+  background-color:#18FFFF;
+ font-family: 'Indie Flower', cursive;
+  padding: 0px;
+  margin: 0px;
+  
+}
+
+img{
+  height: 200px;
+  width: 200px;
+}
+
+#catPic{
+  filter: drop-shadow(30px 10px 4px #4444dd );
+  height: 300px;
+  width: 300px;
+}
+
+.allPics{
+  border: dotted 12px black;
+}
